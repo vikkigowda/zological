@@ -1,0 +1,10 @@
+#include<stdio.h>
+int rev(int n)
+{
+if(n==0)
+return 0;
+}
+int main()
+{
+printf("%d",rev(345));
+}
